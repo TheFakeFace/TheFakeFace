@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheFakeFace
-- 👀 I’m interested in Game Development and eHacking
-- 🌱 I’m currently learning C#, C++ and Python
+- 👋 Hi, I’m @TheFakeFace or Brayan
+- 👀 I’m interested in Game Development and App Development
+- 🌱 I’m currently learning C#, Flutter, and Python
 - 💞️ I’m looking to collaborate on Game Structure 
 - 📫 How to reach me : arthurnguefack96@gmail.com
 - ⚡ Fun fact: I'm going to be R...
